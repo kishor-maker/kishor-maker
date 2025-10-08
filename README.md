@@ -25,7 +25,7 @@
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 30px; border-radius: 50px; display: inline-block; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4); transform: perspective(500px) rotateX(10deg);">
   <h3 style="margin: 0; color: white; font-weight: 600;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-    🔮 Senior Full Stack Developer 
+    🔮 Full Stack Developer 
     <span style="background: linear-gradient(45deg, #FFD93D, #6BCF77); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">|</span> 
     🌍 Remote | India
   </h3>
@@ -71,33 +71,27 @@
 <!-- 3D TECH STACK CUBE -->
 <div align="center">
 
-### 🛠 **Tech Arsenal 3.0**
+### 🛠 **Tech Stack**
 
 <!-- 3D Rotating Cube Effect -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
 
-<!-- Frontend Face -->
+<!-- Frontend Technologies -->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(15deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
   <h4 style="color: white; margin: 0 0 15px 0;">🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind,sass" style="filter: brightness(0) invert(1);" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" style="filter: brightness(0) invert(1);" />
 </div>
 
-<!-- Backend Face -->
+<!-- Backend Technologies -->
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(-15deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3);">
   <h4 style="color: white; margin: 0 0 15px 0;">⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,django,express,flask,fastapi,graphql" style="filter: brightness(0) invert(1);" />
+  <img src="https://skillicons.dev/icons?i=python,django" style="filter: brightness(0) invert(1);" />
 </div>
 
-<!-- Database Face -->
+<!-- Database Technologies -->
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(10deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3);">
   <h4 style="color: white; margin: 0 0 15px 0;">🗄️ Database</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,prisma" style="filter: brightness(0) invert(1);" />
-</div>
-
-<!-- DevOps Face -->
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(-10deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(67, 233, 123, 0.3);">
-  <h4 style="color: white; margin: 0 0 15px 0;">🚀 DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx" style="filter: brightness(0) invert(1);" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" style="filter: brightness(0) invert(1);" />
 </div>
 
 </div>
@@ -124,22 +118,22 @@
 <!-- Project 1 -->
 <div style="background: linear-gradient(135deg, #000000 0%, #0c0c0c 100%); padding: 30px; border-radius: 25px; border: 2px solid #00F0FF; box-shadow: 0 0 30px rgba(0, 240, 255, 0.3); transition: all 0.4s ease; transform-style: preserve-3d;">
   <h3 style="color: #00F0FF; margin-top: 0;">🚀 BookHub Pro</h3>
-  <p style="color: #E0E0E0;">Advanced full-stack book management system with AI recommendations</p>
+  <p style="color: #E0E0E0;">Advanced full-stack book management system built with React & Django</p>
   <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
     <span style="background: #00F0FF; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">React</span>
-    <span style="background: #FF6B6B; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Node.js</span>
-    <span style="background: #4ECDC4; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">MongoDB</span>
+    <span style="background: #FF6B6B; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Django</span>
+    <span style="background: #4ECDC4; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">MySQL</span>
   </div>
 </div>
 
 <!-- Project 2 -->
 <div style="background: linear-gradient(135deg, #000000 0%, #0c0c0c 100%); padding: 30px; border-radius: 25px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255, 107, 107, 0.3); transition: all 0.4s ease; transform-style: preserve-3d;">
-  <h3 style="color: #FF6B6B; margin-top: 0;">🤖 AI Code Assistant</h3>
-  <p style="color: #E0E0E0;">Intelligent coding companion with real-time suggestions and debugging</p>
+  <h3 style="color: #FF6B6B; margin-top: 0;">🛒 E-Commerce Platform</h3>
+  <p style="color: #E0E0E0;">Modern e-commerce solution with React frontend and Django REST API</p>
   <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
-    <span style="background: #FF6B6B; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Python</span>
-    <span style="background: #45B7D1; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">FastAPI</span>
-    <span style="background: #96CEB4; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">OpenAI</span>
+    <span style="background: #FF6B6B; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">JavaScript</span>
+    <span style="background: #45B7D1; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Python</span>
+    <span style="background: #96CEB4; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">SQLite</span>
   </div>
 </div>
 
