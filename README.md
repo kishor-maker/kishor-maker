@@ -1,139 +1,177 @@
-<!-- 3D ANIMATED GRID BACKGROUND -->
-<div align="center">
+<!-- HACKER GREEN THEME -->
+<div align="center" style="background: #0a0f0b; color: #00ff41; font-family: 'Courier New', monospace;">
   
-<!-- FLOATING 3D HEADER WITH PARTICLE EFFECT -->
+<!-- MATRIX-STYLE HEADER -->
 <div style="position: relative;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:FC00FF,100:04BEFE&height=220&section=header&animation=twinkling&text=Nagendra+Kishor&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full+Stack+Architect+%7C+Digital+Visionary&descSize=18&descAlignY=65&stroke=000000&strokeWidth=1&rotate=Y" alt="3D Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0b,50:00ff41,100:003b00&height=220&section=header&animation=scale&text=Nagendra+Kishor&fontSize=50&fontColor=00ff41&fontAlignY=35&desc=Full+Stack+Developer+%7C+Code+Architect&descSize=18&descAlignY=65&stroke=00ff41&strokeWidth=2" alt="Hacker Header" />
   
-  <!-- FLOATING PARTICLES -->
-  <div style="position: absolute; top: 50px; left: 0; width: 100%; text-align: center;">
-    <span style="font-size: 24px;">✨</span>
-    <span style="font-size: 20px; margin-left: 40px;">🚀</span>
-    <span style="font-size: 28px; margin-left: 60px;">💫</span>
-    <span style="font-size: 22px; margin-left: 80px;">⭐</span>
+  <!-- BINARY RAIN EFFECT -->
+  <div style="position: absolute; top: 50px; left: 0; width: 100%; text-align: center; color: #00ff41; font-size: 18px;">
+    <span>01001000 01100001 01100011 01101011 01100101 01110010</span>
   </div>
 </div>
 
 <br>
 
-<!-- MATRIX TYPING ANIMATION WITH GLITCH EFFECT -->
+<!-- MATRIX TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=680&height=70&lines=%2F%2F+Digital+Architect;%2F%2F+Full+Stack+Developer;%2F%2F+Code+Artisan;%2F%2F+System+Designer;%2F%2F+Tech+Innovator;%2F%2F+Solution+Architect" alt="Matrix Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=800&size=34&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=680&height=70&lines=%2F%2F+Digital+Architect;%2F%2F+Full+Stack+Developer;%2F%2F+Code+Hacker;%2F%2F+System+Designer;%2F%2F+Tech+Innovator;%2F%2F+Solution+Builder" alt="Matrix Typing" />
 </h1>
 
-<!-- 3D LOCATION BADGE -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px 30px; border-radius: 50px; display: inline-block; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4); transform: perspective(500px) rotateX(10deg);">
-  <h3 style="margin: 0; color: white; font-weight: 600;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+<!-- HACKER LOCATION BADGE -->
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #003b00 100%); padding: 12px 30px; border-radius: 50px; display: inline-block; box-shadow: 0 0 20px #00ff41; border: 1px solid #00ff41;">
+  <h3 style="margin: 0; color: #00ff41; font-weight: 600; text-shadow: 0 0 10px #00ff41;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="filter: hue-rotate(120deg);"> 
     🔮 Full Stack Developer 
-    <span style="background: linear-gradient(45deg, #FFD93D, #6BCF77); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">|</span> 
+    <span style="color: #00ff41; font-weight: 800;">||</span> 
     🌍 Remote | India
   </h3>
 </div>
 
 <br>
 
-<!-- INTERACTIVE COUNTER -->
+<!-- HACKER COUNTERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishor-maker&label=PROFILE+VISITORS&color=04BEFE&style=for-the-badge&labelColor=000000&logo=eye&logoColor=white" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kishor-maker?label=FOLLOWERS&style=for-the-badge&color=00DBDE&logo=github&labelColor=000000" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=kishor-maker&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge&labelColor=0a0f0b&logo=terminal&logoColor=00ff41" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/kishor-maker?label=FOLLOWERS&style=for-the-badge&color=00ff41&logo=github&labelColor=0a0f0b" alt="followers" />
 </p>
 
 </div>
 
 <br>
 
-<!-- NEON GRID SEPARATOR -->
+<!-- MATRIX SEPARATOR -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(120deg);">
 </div>
 
 <br>
 
-<!-- 3D FLOATING TROPHIES WITH GLOW -->
-<div align="center">
+<!-- HACKER TROPHIES -->
+<div align="center" style="background: #0a0f0b;">
   
-### 🏆 **GitHub Elite Status**
+### 🏆 **Hacker Achievements**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kishor-maker&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&animation=scale)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kishor-maker&theme=matrix&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br>
 
-<!-- HOLOGRAM SEPARATOR -->
+<!-- MATRIX SEPARATOR -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(120deg);">
 </div>
 
 <br>
 
-<!-- 3D TECH STACK CUBE -->
+<!-- CURRENTLY WORKING ON -->
+<div align="center" style="background: #0a0f0b;">
+
+### 🔥 **Currently Hacking On**
+
+<!-- BookHub Project -->
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 30px; border-radius: 15px; border: 2px solid #00ff41; box-shadow: 0 0 30px #00ff41; max-width: 800px; margin: 0 auto;">
+  <h2 style="color: #00ff41; margin-top: 0; text-shadow: 0 0 10px #00ff41;">📚 BookHub Pro</h2>
+  <p style="color: #00ff41; font-size: 16px; line-height: 1.6;">
+    <strong>Advanced book management system with AI-powered recommendations</strong>
+  </p>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+    <div style="background: #001a00; padding: 15px; border-radius: 10px; border: 1px solid #00ff41;">
+      <h4 style="color: #00ff41; margin: 0 0 10px 0;">🛠 Tech Stack</h4>
+      <p style="color: #00ff41; margin: 0; font-size: 14px;">React + Django + MySQL</p>
+    </div>
+    
+    <div style="background: #001a00; padding: 15px; border-radius: 10px; border: 1px solid #00ff41;">
+      <h4 style="color: #00ff41; margin: 0 0 10px 0;">🎯 Status</h4>
+      <p style="color: #00ff41; margin: 0; font-size: 14px;">In Development 🚀</p>
+    </div>
+    
+    <div style="background: #001a00; padding: 15px; border-radius: 10px; border: 1px solid #00ff41;">
+      <h4 style="color: #00ff41; margin: 0 0 10px 0;">📅 Timeline</h4>
+      <p style="color: #00ff41; margin: 0; font-size: 14px;">Q1 2024 Release</p>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<br>
+
+<!-- MATRIX SEPARATOR -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(120deg);">
+</div>
 
-### 🛠 **Tech Stack**
+<br>
 
-<!-- 3D Rotating Cube Effect -->
+<!-- HACKER TECH STACK -->
+<div align="center" style="background: #0a0f0b;">
+
+### 💻 **Hacker Toolkit**
+
+<!-- Tech Grid -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
 
-<!-- Frontend Technologies -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(15deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
-  <h4 style="color: white; margin: 0 0 15px 0;">🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" style="filter: brightness(0) invert(1);" />
+<!-- Frontend -->
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41; box-shadow: 0 0 20px #00ff41;">
+  <h4 style="color: #00ff41; margin: 0 0 15px 0; text-shadow: 0 0 5px #00ff41;">🎨 Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" style="filter: hue-rotate(120deg) brightness(2);" />
 </div>
 
-<!-- Backend Technologies -->
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(-15deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3);">
-  <h4 style="color: white; margin: 0 0 15px 0;">⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=python,django" style="filter: brightness(0) invert(1);" />
+<!-- Backend -->
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41; box-shadow: 0 0 20px #00ff41;">
+  <h4 style="color: #00ff41; margin: 0 0 15px 0; text-shadow: 0 0 5px #00ff41;">⚙️ Backend</h4>
+  <img src="https://skillicons.dev/icons?i=python,django" style="filter: hue-rotate(120deg) brightness(2);" />
 </div>
 
-<!-- Database Technologies -->
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; transform: perspective(1000px) rotateY(10deg); transition: all 0.3s ease; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3);">
-  <h4 style="color: white; margin: 0 0 15px 0;">🗄️ Database</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" style="filter: brightness(0) invert(1);" />
+<!-- Database -->
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41; box-shadow: 0 0 20px #00ff41;">
+  <h4 style="color: #00ff41; margin: 0 0 15px 0; text-shadow: 0 0 5px #00ff41;">🗄️ Database</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" style="filter: hue-rotate(120deg) brightness(2);" />
 </div>
 
 </div>
 
-</div>
-
-<br>
-
-<!-- CYBERPUNK SEPARATOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
 </div>
 
 <br>
 
-<!-- INTERACTIVE PROJECT SHOWCASE -->
+<!-- MATRIX SEPARATOR -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(120deg);">
+</div>
 
-### 🎯 **Featured Projects**
+<br>
 
-<!-- Project Cards with 3D Hover -->
+<!-- PROJECT SHOWCASE -->
+<div align="center" style="background: #0a0f0b;">
+
+### 🚀 **Project Portfolio**
+
+<!-- Project Cards -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto;">
 
 <!-- Project 1 -->
-<div style="background: linear-gradient(135deg, #000000 0%, #0c0c0c 100%); padding: 30px; border-radius: 25px; border: 2px solid #00F0FF; box-shadow: 0 0 30px rgba(0, 240, 255, 0.3); transition: all 0.4s ease; transform-style: preserve-3d;">
-  <h3 style="color: #00F0FF; margin-top: 0;">🚀 BookHub Pro</h3>
-  <p style="color: #E0E0E0;">Advanced full-stack book management system built with React & Django</p>
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #001a00 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41; box-shadow: 0 0 25px #00ff41;">
+  <h3 style="color: #00ff41; margin-top: 0; text-shadow: 0 0 5px #00ff41;">📚 BookHub Pro</h3>
+  <p style="color: #00ff41;">Advanced book management with AI recommendations and social features</p>
   <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
-    <span style="background: #00F0FF; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">React</span>
-    <span style="background: #FF6B6B; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Django</span>
-    <span style="background: #4ECDC4; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">MySQL</span>
+    <span style="background: #00ff41; color: #0a0f0b; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">React</span>
+    <span style="background: #00ff41; color: #0a0f0b; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Django</span>
+    <span style="background: #00ff41; color: #0a0f0b; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">MySQL</span>
   </div>
 </div>
 
 <!-- Project 2 -->
-<div style="background: linear-gradient(135deg, #000000 0%, #0c0c0c 100%); padding: 30px; border-radius: 25px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255, 107, 107, 0.3); transition: all 0.4s ease; transform-style: preserve-3d;">
-  <h3 style="color: #FF6B6B; margin-top: 0;">🛒 E-Commerce Platform</h3>
-  <p style="color: #E0E0E0;">Modern e-commerce solution with React frontend and Django REST API</p>
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #001a00 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41; box-shadow: 0 0 25px #00ff41;">
+  <h3 style="color: #00ff41; margin-top: 0; text-shadow: 0 0 5px #00ff41;">🛒 E-Commerce Platform</h3>
+  <p style="color: #00ff41;">Modern e-commerce solution with React frontend and Django REST API</p>
   <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
-    <span style="background: #FF6B6B; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">JavaScript</span>
-    <span style="background: #45B7D1; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Python</span>
-    <span style="background: #96CEB4; color: black; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">SQLite</span>
+    <span style="background: #00ff41; color: #0a0f0b; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">JavaScript</span>
+    <span style="background: #00ff41; color: #0a0f0b; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">Python</span>
+    <span style="background: #00ff41; color: #0a0f0b; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold;">SQLite</span>
   </div>
 </div>
 
@@ -143,34 +181,34 @@
 
 <br>
 
-<!-- DATA FLOW SEPARATOR -->
+<!-- MATRIX SEPARATOR -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(120deg);">
 </div>
 
 <br>
 
-<!-- ADVANCED ANALYTICS DASHBOARD -->
-<div align="center">
+<!-- HACKER ANALYTICS -->
+<div align="center" style="background: #0a0f0b;">
 
-### 📊 **GitHub Analytics Pro**
+### 📊 **Code Analytics**
 
-<!-- Enhanced Stats Grid -->
+<!-- Stats Grid -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto;">
 
 <!-- Main Stats -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 20px; border: 1px solid #30363d;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishor-maker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF&border_radius=15&custom_title=Development+Metrics&hide=issues" alt="GitHub Stats" />
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #001a00 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishor-maker&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f0b&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_radius=15&custom_title=Code+Metrics" alt="GitHub Stats" />
 </div>
 
 <!-- Streak Stats -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 20px; border: 1px solid #30363d;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-maker&theme=radical&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&border_radius=15" alt="GitHub Streak" />
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #001a00 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishor-maker&theme=dark&hide_border=true&background=0a0f0b&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border_radius=15" alt="GitHub Streak" />
 </div>
 
 <!-- Language Stats -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 20px; border: 1px solid #30363d; grid-column: 1 / -1;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-maker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=FFFFFF&border_radius=15&custom_title=Language+Mastery&langs_count=8" alt="Top Languages" />
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #001a00 100%); padding: 25px; border-radius: 15px; border: 1px solid #00ff41; grid-column: 1 / -1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-maker&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0b&title_color=00ff41&text_color=00ff41&border_radius=15&custom_title=Language+Usage" alt="Top Languages" />
 </div>
 
 </div>
@@ -180,56 +218,56 @@
 <br>
 
 <!-- ACTIVITY GRAPH -->
-<div align="center">
+<div align="center" style="background: #0a0f0b;">
 
-### 🎮 **Coding Activity Map**
+### 🎮 **Coding Activity**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-maker&theme=react-dark&hide_border=true&area=true&custom_title=My+Development+Journey&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=00F0FF&title_color=00F0FF&area=true" alt="Contribution Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-maker&theme=react-dark&hide_border=true&area=true&custom_title=Hacking+Timeline&bg_color=0a0f0b&color=00ff41&line=00ff41&point=00ff41&area_color=003b00&title_color=00ff41&area=true" alt="Contribution Graph" width="90%" />
 
 </div>
 
 <br>
 
-<!-- QUANTUM SEPARATOR -->
+<!-- MATRIX SEPARATOR -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(120deg);">
 </div>
 
 <br>
 
-<!-- CONTACT MATRIX -->
-<div align="center">
+<!-- HACKER CONTACTS -->
+<div align="center" style="background: #0a0f0b;">
 
 ### 🌐 **Connect Matrix**
 
-<!-- 3D Social Links -->
+<!-- Social Links -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/your-profile" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%); padding: 20px; border-radius: 15px; text-align: center; transition: all 0.3s ease; transform: perspective(500px) rotateX(5deg); box-shadow: 0 10px 25px rgba(0, 119, 181, 0.3);">
-    <span style="color: white; font-weight: bold; font-size: 16px;">💼 LinkedIn</span>
+  <div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 20px; border-radius: 15px; text-align: center; border: 1px solid #00ff41; box-shadow: 0 0 15px #00ff41;">
+    <span style="color: #00ff41; font-weight: bold; font-size: 16px;">💼 LinkedIn</span>
   </div>
 </a>
 
 <!-- Email -->
 <a href="mailto:koyyalanagendrakishor@example.com" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #EA4335 0%, #FBBC05 100%); padding: 20px; border-radius: 15px; text-align: center; transition: all 0.3s ease; transform: perspective(500px) rotateX(5deg); box-shadow: 0 10px 25px rgba(234, 67, 53, 0.3);">
-    <span style="color: white; font-weight: bold; font-size: 16px;">📧 Gmail</span>
+  <div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 20px; border-radius: 15px; text-align: center; border: 1px solid #00ff41; box-shadow: 0 0 15px #00ff41;">
+    <span style="color: #00ff41; font-weight: bold; font-size: 16px;">📧 Gmail</span>
   </div>
 </a>
 
 <!-- Portfolio -->
 <a href="https://your-portfolio.com" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; text-align: center; transition: all 0.3s ease; transform: perspective(500px) rotateX(5deg); box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);">
-    <span style="color: white; font-weight: bold; font-size: 16px;">🌐 Portfolio</span>
+  <div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 20px; border-radius: 15px; text-align: center; border: 1px solid #00ff41; box-shadow: 0 0 15px #00ff41;">
+    <span style="color: #00ff41; font-weight: bold; font-size: 16px;">🌐 Portfolio</span>
   </div>
 </a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/your-handle" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #1DA1F2 0%, #0d8bd9 100%); padding: 20px; border-radius: 15px; text-align: center; transition: all 0.3s ease; transform: perspective(500px) rotateX(5deg); box-shadow: 0 10px 25px rgba(29, 161, 242, 0.3);">
-    <span style="color: white; font-weight: bold; font-size: 16px;">🐦 Twitter</span>
+  <div style="background: linear-gradient(135deg, #0a0f0b 0%, #002200 100%); padding: 20px; border-radius: 15px; text-align: center; border: 1px solid #00ff41; box-shadow: 0 0 15px #00ff41;">
+    <span style="color: #00ff41; font-weight: bold; font-size: 16px;">🐦 Twitter</span>
   </div>
 </a>
 
@@ -239,25 +277,25 @@
 
 <br>
 
-<!-- FINAL CTA SECTION -->
-<div align="center">
+<!-- FINAL CTA -->
+<div align="center" style="background: #0a0f0b;">
 
-### 🚀 **Ready to Build the Future?**
+### 🚀 **Ready to Hack the Future?**
 
-<!-- Animated CTA -->
-<div style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 100%); padding: 40px; border-radius: 25px; border: 3px solid transparent; border-image: linear-gradient(45deg, #00DBDE, #FC00FF, #04BEFE) 1; box-shadow: 0 0 50px rgba(0, 219, 222, 0.2);">
-  <h2 style="background: linear-gradient(45deg, #00DBDE, #FC00FF, #04BEFE); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0 0 20px 0;">
-    Let's Create Something Extraordinary
+<!-- CTA Section -->
+<div style="background: linear-gradient(135deg, #0a0f0b 0%, #001a00 100%); padding: 40px; border-radius: 20px; border: 2px solid #00ff41; box-shadow: 0 0 40px #00ff41; max-width: 800px;">
+  <h2 style="color: #00ff41; margin: 0 0 20px 0; text-shadow: 0 0 10px #00ff41;">
+    Let's Build Something Revolutionary
   </h2>
-  <p style="color: #E0E0E0; margin-bottom: 25px;">
-    From concept to deployment, I transform ideas into scalable digital solutions
+  <p style="color: #00ff41; margin-bottom: 25px;">
+    From concept to deployment, I engineer robust digital solutions
   </p>
   
-  <!-- Interactive Badges -->
+  <!-- Badges -->
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/⭐-Star_My_Work-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/🚀-Follow_For_More-00F0FF?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/💼-Hire_Me-10B981?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/⭐-Star_My_Work-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/🚀-Follow_For_More-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/💼-Hire_Me-00ff41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </div>
 </div>
 
@@ -265,33 +303,34 @@
 
 <br>
 
-<!-- 3D FLOATING FOOTER -->
-<div align="center">
+<!-- HACKER FOOTER -->
+<div align="center" style="background: #0a0f0b;">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04BEFE,50:00DBDE,100:FC00FF&height=120&section=footer&animation=twinkling&text=Code+•+Create+•+Innovate+🚀&fontSize=22&fontColor=ffffff&fontAlignY=65&rotate=Y" alt="3D Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0b,50:00ff41,100:003b00&height=120&section=footer&animation=scale&text=Code+•+Hack+•+Innovate+🚀&fontSize=22&fontColor=00ff41&fontAlignY=65" alt="Hacker Footer" />
 
 <br>
 
 <!-- Final Signature -->
 <h3 align="center">
-  <span style="background: linear-gradient(45deg, #00DBDE, #FC00FF, #04BEFE, #96CEB4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">
-    💻 Crafting Digital Excellence Since 2020
+  <span style="color: #00ff41; font-weight: 800; text-shadow: 0 0 10px #00ff41;">
+    💻 Engineering Digital Solutions Since 2020
   </span>
 </h3>
 
-<!-- Floating Code Animation -->
+<!-- Matrix Code -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sNQJ8C17gPvi/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" style="filter: hue-rotate(120deg);">
+  <img src="https://media.giphy.com/media/3o7aD2sNQJ8C17gPvi/giphy.gif" width="80" style="filter: hue-rotate(120deg);">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" style="filter: hue-rotate(120deg);">
 </p>
 
 </div>
 
-<!-- FLOATING PARTICLES SCRIPT -->
+<!-- MATRIX SCRIPT -->
 <script>
-  // This creates a floating particle effect (conceptual - for demonstration)
-  console.log('🚀 Profile Loaded with 3D Effects');
-  console.log('💫 Ready to build amazing things together!');
+  console.log('🖥️  System Initialized...');
+  console.log('💚 Hacker Theme Activated');
+  console.log('📚 BookHub Project: ONLINE');
+  console.log('🚀 Ready to build revolutionary software!');
 </script>
