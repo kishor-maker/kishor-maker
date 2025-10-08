@@ -2,7 +2,7 @@
 <div align="center">
   
 <!-- Hacker Terminal Banner -->
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=0:00ff00,100:00cc00&height=200&section=header&text=Nagendra+Kishor&fontSize=50&fontColor=00ff00&fontAlignY=35&desc=Full+Stack+Developer+%7C+Digital+Architect&descSize=20&descAlignY=65&stroke=00ff00&strokeWidth=1" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Nagendra+Kishor&fontSize=50&fontColor=00ff00&fontAlignY=35&desc=Full+Stack+Developer+%7C+Digital+Architect&descSize=20&descAlignY=65&stroke=00ff00&strokeWidth=1" alt="header" />
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <!-- System Status Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishor-maker&label=SYSTEM+ACCESS&color=00ff00&style=for-the-badge&labelColor=000000&logo=terminal&logoColor=00ff00" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kishor-maker&label=SYSTEM+ACCESS&color=00ff00&style=for-the-badge&labelColor=000000" alt="profile views" />
 </p>
 
 </div>
@@ -254,10 +254,16 @@
 
 <!-- Terminal Style Quote -->
 <div align="center" style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 100%); padding: 30px; border-radius: 10px; border: 1px solid #00ff00; box-shadow: 0 0 20px rgba(0,255,0,0.2);">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
-  <br><br>
   <p style="color: #00ff00; font-size: 18px; font-weight: bold; font-family: 'JetBrains Mono', monospace;">
+    "> system.initiatePhilosophy();
+  </p>
+  <br>
+  <p style="color: #00cc00; font-size: 16px; font-style: italic;">
     "Code is not just instructions, it's poetry for machines. Every line tells a story."
+  </p>
+  <br>
+  <p style="color: #00ff00; font-size: 14px; font-family: 'JetBrains Mono', monospace;">
+    > philosophy.terminate();
   </p>
 </div>
 
@@ -288,11 +294,18 @@
 
 <!-- Terminal Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%3E_STAR_REPOSITORY-00ff00?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/%3E_FOLLOW_PROFILE-00ff00?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/%3E_INITIATE_CONTACT-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img src="https://img.shields.io/badge/%3E_STAR_REPOSITORY-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%3E_FOLLOW_PROFILE-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%3E_INITIATE_CONTACT-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
 </p>
 
+</div>
+
+<br>
+
+<!-- TERMINAL SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br>
@@ -301,13 +314,13 @@
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=0:00ff00,100:00cc00&height=120&section=footer&text=SYSTEM+OFFLINE+%E2%80%A2+Thanks+For+Accessing!&fontSize=20&fontColor=00ff00&fontAlignY=65" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=120&section=footer&text=SYSTEM+OFFLINE+%E2%80%A2+Thanks+For+Accessing!&fontSize=20&fontColor=00ff00&fontAlignY=65" alt="footer" />
 
 <br>
 
 <!-- Final Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sNQJ8C17gPvi/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/3o7aD2sNQJ8C17gPvi/giphy.gif" width="100" style="filter: hue-rotate(90deg);">
 </p>
 
 <h3 align="center">
@@ -315,5 +328,13 @@
     > CODE • BUILD • INNOVATE
   </span>
 </h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XEDZQ7UOTDdHZXxS1I/giphy.gif" width="50" style="filter: hue-rotate(90deg);">
+  <span style="color: #00cc00; font-size: 12px; font-family: 'JetBrains Mono', monospace;">
+    SYSTEM STATUS: ONLINE | LAST UPDATE: $(date)
+  </span>
+  <img src="https://media.giphy.com/media/XEDZQ7UOTDdHZXxS1I/giphy.gif" width="50" style="filter: hue-rotate(90deg);">
+</p>
 
 </div>
